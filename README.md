@@ -1,2 +1,2 @@
 # ce888labs
-Repository for CE888 lab session
+Repository for CE888 lab sessions
