@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# sundry LaTeX files
+*.aux
+*.synctex.gz
