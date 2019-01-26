@@ -40,7 +40,7 @@ if __name__ == "__main__":
 		boots.append([i, boot[1], "lower"])
 		boots.append([i, boot[2], "upper"])
 
-	df_boot = pd.DataFrame(boots, columns=['Boostrap Iterations', 'Mean', "Value"])
+	df_boot = pd.DataFrame(boots, columns=['Bootstrap Iterations', 'Mean', "Value"])
 	sns_plot = sns.lmplot(df_boot.columns[0], df_boot.columns[1], data=df_boot, fit_reg=False, hue="Value")
 
 	sns_plot.axes[0, 0].set_ylim(0,)

@@ -5,7 +5,7 @@ Brief writeup on Lab 2 and getting stuck in with some of Python's Data Science t
 
 ### Setting Up
 
-* **Did not** set up an Overleaf account as I'm familiar with LaTex and have tools to work with it
+* **Did not** set up an Overleaf account as I'm familiar with LaTeX and have tools to work with it
 * **Did** send an email to Ana with my GitHub username
 * **Did** download the slides and initial code, and upload to GitHub
 * **Did** download PyCharm, but am reluctant to use it to a great extent as I have tools I prefer
@@ -21,7 +21,7 @@ Here I was pleased to be able to create a working `vehicles.py` and generate the
 
 This was somewhat more challenging, and it took me several hours to write very few lines of code! However, I was struck by how powerful those few lines are, and how much more complicated the solution would have been without libraries, in particular NumPy. In addition, I invested time in reviewing the lecture slides in order to understand the resampling algorithm, and also the libraries involved, which was a worthwhile endeavour.
 
-![logo](./veh_histogram.png?raw=true)
+![logo](./bootstrap_confidence.png?raw=true)
 
 ### Exercise: Bootstrap 2
 

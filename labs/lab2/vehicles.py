@@ -34,7 +34,7 @@ if __name__ == "__main__":
 
 	# Get current axes, label them
 	axes = plt.gca() # Instance of AxesSubplot
-	axes.set_xlabel('Vehicle ID (?)') # I don't know what the numbers actually refer to
+	axes.set_xlabel('Vehicle MPG (?)') # I don't know what the numbers actually refer to
 	axes.set_ylabel('Vehicle Count')
 
 	sns_plot2.savefig("veh_histogram.png", bbox_inches='tight')
