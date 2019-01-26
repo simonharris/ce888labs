@@ -25,7 +25,7 @@ This was somewhat more challenging, and it took me several hours to write very f
 
 ### Exercise: Bootstrap 2
 
-This was mainly just a case of calling my `bootstrap()` function from the previous exercise. It tool me a while to find an overall mean for the dataset., but finally discovered that `df.mean().mean()` provides that.
+This was mainly just a case of calling my `bootstrap()` function from the previous exercise. It took me a while to find an overall mean for the dataset., but finally discovered that `df.mean().mean()` provides that.
 
 I wasn't sure how many iterations and how large a sample size to use, so I chose arbitrary numbers, both fairly high but not high enough to take forever to run. Output was as follows:
 
